@@ -1,0 +1,14 @@
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\bin\Debug\net6.0\VictorRuiz.Modelos.deps.json
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\bin\Debug\net6.0\VictorRuiz.Modelos.runtimeconfig.json
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\bin\Debug\net6.0\VictorRuiz.Modelos.dll
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\bin\Debug\net6.0\VictorRuiz.Modelos.pdb
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\VictorRuiz.Modelos.csproj.AssemblyReference.cache
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\VictorRuiz.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\VictorRuiz.Modelos.AssemblyInfoInputs.cache
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\VictorRuiz.Modelos.AssemblyInfo.cs
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\VictorRuiz.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\VictorRuiz.Modelos.dll
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\refint\VictorRuiz.Modelos.dll
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\VictorRuiz.Modelos.pdb
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\VictorRuiz.Modelos.genruntimeconfig.cache
+C:\Users\ruizm\Downloads\VictorRuiz_Examen\VictorRuiz.Modelos\obj\Debug\net6.0\ref\VictorRuiz.Modelos.dll

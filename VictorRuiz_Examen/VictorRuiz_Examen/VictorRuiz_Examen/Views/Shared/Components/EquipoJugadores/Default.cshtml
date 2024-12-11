@@ -1,0 +1,9 @@
+﻿@model IEnumerable<dynamic>
+
+<h3>Equipos y Número de Jugadores</h3>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.NomEquipo: @item.NumJugadores jugadores</li>
+    }
+</ul>
